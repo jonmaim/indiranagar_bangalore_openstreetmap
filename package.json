@@ -1,0 +1,10 @@
+{
+  "name": "OpenStreetMap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "osm-pbf-parser": "^2.3.0",
+    "through2": "^2.0.3"
+  }
+}
